@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Brokeena/Brokeena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently in my second year as a student at Polytechnique Montreal in Software Engineering.
 
-Here are some ideas to get you started:
+ ## <p align="center"> Activity 🧑‍💻</p >
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brokeena&theme=react)](https://github.com/Brokeena/github-readme-activity-graph)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <center>  ⚙️ Technologies & Tools 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,js,css,html,cpp,cs,flutter,vscode,npm,figma" />
+  </a>
+</p>
+

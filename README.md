@@ -10,7 +10,7 @@
  ## <p align="center"> Activity 🧑‍💻</p >
 [![Brokeena's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brokeena&theme=react)](https://github.com/Brokeena/github-readme-activity-graph)
 
-## <center>  ⚙️ Technologies & Tools 
+## <center>  ⚙️ Tech Stack 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,js,react,nodejs,css,html,cpp,cs,flutter,vscode,npm,figma" />

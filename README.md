@@ -7,13 +7,10 @@
 [![ReadM Card](https://github-readme-stats.vercel.app/api/pin/?username=Brokeena&repo=AS-Converter&theme=dark)](https://github.com/Brokeena/AS-Converter)
 
 
-<p style="display: inline-block; vertical-align: middle;">
-    I'm currently more on GitLab, check my profile! ➡️️
-</p>
-<a href="https://gitlab.com/BROKEENA" style="display: inline-block; vertical-align: top;">
-    <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab Icon" style="width: 30px; height: 30px;" />
+<p>I'm currently more on GitLab, check my profile!  ⬇️</p>
+<a href="https://gitlab.com/BROKEENA">
+    <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab Icon" style="margin-left: 20px;" />
 </a>
-
 
  ## <p align="center"> Activity 🧑‍💻</p >
 [![Brokeena's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brokeena&theme=react)](https://github.com/Brokeena/github-readme-activity-graph)

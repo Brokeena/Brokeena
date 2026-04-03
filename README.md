@@ -1,11 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m currently in my second year as a student at Polytechnique Montreal in Software Engineering.
-
-✍️ In my free time I work on a little side project ⬇️
-
-[![ReadM Card](https://github-readme-stats.vercel.app/api/pin/?username=Brokeena&repo=AS-Converter&theme=dark)](https://github.com/Brokeena/AS-Converter)
-
+🔭 I’m currently in my thrd year as a student at Polytechnique Montreal in Software Engineering.
 
 <p>I'm currently more on GitLab, check my profile!  ⬇️</p>
 <a href="https://gitlab.com/BROKEENA">
@@ -18,6 +13,6 @@
 ## <center>  ⚙️ Tech Stack 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,js,react,nodejs,css,html,cpp,cs,flutter,vscode,npm,figma" />
+    <img src="https://skillicons.dev/icons?i=git,linux,bash,java,python,js,react,angular,nodejs,css,html,cpp,cs,flutter,vscode,npm,figma,supabase,aws,docker," />
   </a>
 </p>
